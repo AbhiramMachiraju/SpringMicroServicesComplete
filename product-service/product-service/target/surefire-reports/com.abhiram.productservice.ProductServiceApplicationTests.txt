@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.abhiram.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 13.005 s - in com.abhiram.productservice.ProductServiceApplicationTests

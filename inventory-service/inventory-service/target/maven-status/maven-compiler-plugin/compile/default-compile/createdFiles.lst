@@ -1,0 +1,12 @@
+com\abhiram\inventoryservice\ServletInitializer.class
+com\abhiram\inventoryservice\DTO\InventoryResponse.class
+com\abhiram\inventoryservice\config\Configuration.class
+com\abhiram\inventoryservice\DTO\InventoryResponse$InventoryResponseBuilder.class
+com\abhiram\inventoryservice\model\InventoryTO.class
+com\abhiram\inventoryservice\services\InventoryService.class
+com\abhiram\inventoryservice\model\InventoryTO$InventoryTOBuilder.class
+com\abhiram\inventoryservice\repository\InventoryJPARepo.class
+com\abhiram\inventoryservice\repository\impl\InventoryRepoImpl.class
+com\abhiram\inventoryservice\InventoryServiceApplication.class
+com\abhiram\inventoryservice\repository\CustomInventoryRepo.class
+com\abhiram\inventoryservice\controller\InventoryController.class

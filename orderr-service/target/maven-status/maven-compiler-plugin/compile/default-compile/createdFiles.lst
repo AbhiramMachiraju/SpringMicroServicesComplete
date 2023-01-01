@@ -1,0 +1,16 @@
+com\abhiram\orderrservice\OrderrServiceApplication.class
+com\abhiram\orderrservice\model\OrderTO$OrderTOBuilder.class
+com\abhiram\orderrservice\Service\OrderService.class
+com\abhiram\orderrservice\model\OrderLineTO$OrderLineTOBuilder.class
+com\abhiram\orderrservice\DTO\InventoryResponse$InventoryResponseBuilder.class
+com\abhiram\orderrservice\DTO\OrderLineItemsDTO.class
+com\abhiram\orderrservice\model\OrderLineTO.class
+com\abhiram\orderrservice\ServletInitializer.class
+com\abhiram\orderrservice\DTO\OrderLineItemsDTO$OrderLineItemsDTOBuilder.class
+com\abhiram\orderrservice\model\OrderTO.class
+com\abhiram\orderrservice\DTO\InventoryResponse.class
+com\abhiram\orderrservice\DTO\OrderRequest$OrderRequestBuilder.class
+com\abhiram\orderrservice\config\WebClientConfig.class
+com\abhiram\orderrservice\repository\OrderRepo.class
+com\abhiram\orderrservice\controller\OrderRestController.class
+com\abhiram\orderrservice\DTO\OrderRequest.class
